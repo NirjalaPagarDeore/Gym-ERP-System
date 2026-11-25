@@ -1,0 +1,23 @@
+# Environment and database credentials
+.env
+
+# Local database files
+*.sql.bak
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependencies (if applicable)
+/vendor/
+/node_modules/
+
+# Uploaded private files (if applicable)
+/uploads/
